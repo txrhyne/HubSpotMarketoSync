@@ -74,8 +74,8 @@ function createleads(body,accesstoken,begin,end) {
         }
 
 
-hspotlink = 'https://api.hubapi.com/contacts/v1/lists/all/contacts/all?hapikey=849eec84-8083-4b89-813a-2f94ce6c34f7&property=firstname&property=lastname&property=email&count=100'
-hspotrecent = 'https://api.hubapi.com/contacts/v1/lists/all/contacts/recent?hapikey=849eec84-8083-4b89-813a-2f94ce6c34f7&property=firstname&property=lastname&property=email&property=id'
+hspotlink = 'https://api.hubapi.com/contacts/v1/lists/all/contacts/all?hapikey=REPLACEWITHYOUROWN&property=firstname&property=lastname&property=email&count=100'
+hspotrecent = 'https://api.hubapi.com/contacts/v1/lists/all/contacts/recent?hapikey=REPLACEWITHYOUROWN&property=firstname&property=lastname&property=email&property=id'
 
 
 
